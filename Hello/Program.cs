@@ -15,7 +15,9 @@ namespace Hello
     {
       //käytä Mainia ohjelmien kutsumiseen, älä kirjoita koodia tänne vaan aliohjelmiin
       //SayHello();
-      ShowNames();
+      //ShowNames();
+      //staattisen ohjelman kutsuminen toisesta luokasta
+      Hello.Lotto.DrawLotto();
     }
 
     static void ShowNames()
