@@ -1,4 +1,4 @@
-﻿using JAMK.IT; //helpottaa meidän luokkien löytämästi
+﻿using JAMK.IT; //helpottaa meidän tekemien luokkien löytämistä
 using System;
 
 namespace OOdemot
@@ -8,6 +8,7 @@ namespace OOdemot
     static void Main(string[] args)
     {
       TestaaKiuas();
+      JAMK.IT.TestCat.Testaa();
     }
 
     //Lab3 Tehtävä 1: Kiuas-luokan testaus
