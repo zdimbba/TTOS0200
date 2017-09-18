@@ -11,7 +11,8 @@ namespace Labrat
     {
         static void Main(string[] args)
         {
-            Labrat.Lab01.Lab011();
+            //Labrat.Lab01.Lab011();
+            Labrat.Lab02.Lab012();
         }
     }
 }
