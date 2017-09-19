@@ -15,7 +15,13 @@ namespace Labrat
             //Labrat.Lab02.Lab012();
             //Labrat.Lab03.Lab013();
             //Labrat.Lab04.Lab014();
-            Labrat.Lab05.Lab015();
+            //Labrat.Lab05.Lab015();
+            //Labrat.Lab06.Lab016();
+            //Labrat.Lab07.Lab017();
+            //Labrat.Lab08.Lab018();
+            //Labrat.Lab09.Lab019();
+            //Labrat.Lab10.Lab0110();
+            Labrat.Lab11.Lab0111();
         }
     }
 }
