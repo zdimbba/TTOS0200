@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telkkari", "Telkkari\Telkka
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTester", "NumberTester\NumberTester.csproj", "{233F8CF2-3AE1-4589-8035-57C6D379F7C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynaHissi", "DynaHissi\DynaHissi.csproj", "{74A650CD-5EAA-4DA5-897B-441E643B4710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{233F8CF2-3AE1-4589-8035-57C6D379F7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{233F8CF2-3AE1-4589-8035-57C6D379F7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{233F8CF2-3AE1-4589-8035-57C6D379F7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A650CD-5EAA-4DA5-897B-441E643B4710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A650CD-5EAA-4DA5-897B-441E643B4710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A650CD-5EAA-4DA5-897B-441E643B4710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A650CD-5EAA-4DA5-897B-441E643B4710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
