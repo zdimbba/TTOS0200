@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTester", "NumberTeste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynaHissi", "DynaHissi\DynaHissi.csproj", "{74A650CD-5EAA-4DA5-897B-441E643B4710}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amplifier", "Amplifier\Amplifier.csproj", "{7E84256B-23CF-4DED-8EAB-3B54157752B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{74A650CD-5EAA-4DA5-897B-441E643B4710}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74A650CD-5EAA-4DA5-897B-441E643B4710}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74A650CD-5EAA-4DA5-897B-441E643B4710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E84256B-23CF-4DED-8EAB-3B54157752B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E84256B-23CF-4DED-8EAB-3B54157752B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E84256B-23CF-4DED-8EAB-3B54157752B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E84256B-23CF-4DED-8EAB-3B54157752B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
