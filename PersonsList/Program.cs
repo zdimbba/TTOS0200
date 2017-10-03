@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Viikko 5, tehtävä 4
+//Periytyviä tietoja henkilöstössä
+//Timo Kannus
 namespace PersonsList
 {
     class Program
