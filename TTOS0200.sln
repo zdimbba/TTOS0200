@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{43D3A9D9-D831-46CD-BE33-1DE6770DB406}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonsList", "PersonsList\PersonsList.csproj", "{FE762FC4-4797-4283-8C60-B4003701197F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{3C021A69-D88F-4F0C-A46C-FB3BE6719912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheThing", "TheThing\TheThing.csproj", "{7196B49A-1599-44FF-9E1B-47C9F07629F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{3C021A69-D88F-4F0C-A46C-FB3BE6719912}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C021A69-D88F-4F0C-A46C-FB3BE6719912}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C021A69-D88F-4F0C-A46C-FB3BE6719912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7196B49A-1599-44FF-9E1B-47C9F07629F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7196B49A-1599-44FF-9E1B-47C9F07629F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7196B49A-1599-44FF-9E1B-47C9F07629F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7196B49A-1599-44FF-9E1B-47C9F07629F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
