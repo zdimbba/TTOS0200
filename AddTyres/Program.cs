@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //Viikko 6, tehtävä 1.
-//Renkaita ajoneuvoon
+//Renkaita ajoneuvoon.
 //Timo Kannus
 namespace AddTyres
 {
